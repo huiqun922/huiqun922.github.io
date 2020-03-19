@@ -6,4 +6,4 @@ A minimalist Jekyll theme for running a personal blog. For everything you would 
 
 
 
-http://113.96.62.246:30001/down?name=7fb271b1aa0e5144dc90772ecf2c041a&token=eeb0fe974e5589ca42ab682efe65415b&password=$2y$10$uSXaug8TOHLn1/IkSvQx8OdZ/RKyybzm47eDNomKcBvlAAlwR8VRS
+http://113.96.62.246:30001/down?name=783e5118aa38198bdf43de688238e26f&token=f721dfb9a91b98b44acaf3515c9abdf4&password=$2y$10$3DxlSP3ysm6H1eJsl.JV6uuvUXUsg8Gre25jL.7pDFLp9IuBqMOiq
